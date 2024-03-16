@@ -1,5 +1,5 @@
 FROM pytorch/pytorch
-LABEL developer="Sumin Yang <ysm0482@naver.com>"
+LABEL developer="Cho SunA"
 
 RUN pwd
 RUN ls -als .
