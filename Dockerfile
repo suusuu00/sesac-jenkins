@@ -1,4 +1,4 @@
-FROM pytorch/pytorch
+FROM ubuntu:22.04
 LABEL developer="Cho SunA"
 
 RUN pwd
